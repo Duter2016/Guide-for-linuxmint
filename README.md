@@ -2,6 +2,9 @@
 Linux Mint 18.3+（含19.3） 双系统安装及优化指导手册
 ### 更新时间：2020.03.10
 
+## 下载
+https://github.com/Duter2016/Guide-for-linuxmint/releases
+
 ## 文档更新说明
 见文章[《Linux Mint 18.3+（含19.3） 双系统安装及优化指导手册》](https://duter2016.github.io/2019/09/15/LinuxMint18.3+-%E5%90%AB19.3-%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BC%98%E5%8C%96%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C/)
 
